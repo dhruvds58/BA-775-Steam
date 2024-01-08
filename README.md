@@ -1,4 +1,4 @@
-# BA-775-Steam
+# Steam Library Analysis
 An exhaustive SQL project looking into the data from Steam Platform. 
 Contributers: 
 Alima Abidrova
